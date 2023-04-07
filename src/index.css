@@ -17,4 +17,10 @@ body {
     .relative {
         left: 1%;
     }
+    .left-\[35\%\] {
+        left: 5%;
+    }
+    .w-\[500px\] {
+        width: 90%;
+    }
 }
